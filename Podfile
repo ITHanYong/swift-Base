@@ -5,6 +5,12 @@ target 'Swift-Base' do
     pod 'Masonry'
     pod 'IQKeyboardManager'
     pod 'ObjectMapper'
-    pod 'Alamofire'
+    # pod 'Alamofire'
     pod 'SDWebImage'
+    
+    pod 'MBProgressHUD'
+    
+    pod 'Moya'
+    pod 'SnapKit'
+    pod 'Kingfisher'
 end
